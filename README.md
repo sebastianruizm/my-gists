@@ -1,6 +1,6 @@
 # my-gists
 Colección de mis GitHub Gists
-
+- [delta-lake-key-features.ipynb](https://gist.github.com/sebastianruizm/84116b85a5cfa11f9eeddee009c1dbd4)
 - [pydantic-data-validation.ipynb](https://gist.github.com/sebastianruizm/340e5e193f0ba2a961c130c5eed43e08)
 - [docker-postgres.md](https://gist.github.com/sebastianruizm/ef82e8ce33bbd4d55172729056240efb)
 - [pyspark-great-expectations.ipynb](https://gist.github.com/sebastianruizm/fb897ed055146e3a72b610439750e9d5)
